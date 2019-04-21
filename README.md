@@ -13,5 +13,5 @@ View Item with invetory less than 100.
 
 ##Bamazon Superviser##
 **Use Arrow keys to navigate the menu, Enter key to select.**
-![BamazoneSuperviser.js - View Product Sale by Departments](/Gifs/BamazonSupervisor-addDepartment.gif)
-![BamazoneSuperviser.js - Add Department](/Gifs/BamazonSupervisor-viewSales.gif)
+![BamazoneSuperviser.js - View Product Sale by Departments](/Gifs/BamazonSupervisor-viewSales.gif)
+![BamazoneSuperviser.js - Add Department](/Gifs/BamazonSupervisor-addDepartment.gif)
